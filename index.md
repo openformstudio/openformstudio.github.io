@@ -2,15 +2,13 @@
 layout: default
 ---
 
-We are OpenForm Studio, LLC, based in North Carolina. We take work in the Triangle, remotely across the US, and on-site when the work is physical.
+We are OpenForm Studio, LLC, based in North Carolina. We take work in the Triangle and remotely across the US.
 
 ## What we do
 
 **Product design and build.** Mobile and web products, often as one system: native apps, web clients, and the services behind them.
 
 **Consulting.** Tighter help than a build, in three lanes: **mobile and platform**, **delivery**, and **product framing**. We help a team decide what to ship and how to get it out. We do not become extra staff.
-
-**Installations.** We also make work with immersive installation artists. That line of work will show here when there is something to point at.
 
 We do not provide staffing or staff augmentation.
 
