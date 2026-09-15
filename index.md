@@ -8,7 +8,7 @@ We are OpenForm Studio, LLC, based in North Carolina. We take work in the Triang
 
 **Product design and build.** Mobile and web products, often as one system: native apps, web clients, and the services behind them.
 
-**Consulting.** Tighter help than a build, in three lanes: **mobile and platform**, **delivery**, and **product framing**. We help a team decide what to ship and how to get it out. We do not become extra staff.
+**Consulting.** We consult on **mobile** and **AI integration**, and on **delivery** and **product framing**. Tighter help than a build: we help a team decide what to ship and how to get it out. We do not become extra staff.
 
 We do not provide staffing or staff augmentation.
 
