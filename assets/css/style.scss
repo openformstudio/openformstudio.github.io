@@ -1,0 +1,48 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+.page-header-brand {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem 2rem;
+  width: 100%;
+  max-width: 64rem;
+  margin: 0 auto;
+}
+
+.page-header-logo {
+  display: block;
+  flex: 0 0 auto;
+  width: auto;
+  height: 8.5rem;
+}
+
+.page-header-copy {
+  text-align: right;
+}
+
+.page-header .project-name {
+  margin: 0;
+}
+
+.page-header .project-tagline {
+  margin: 0.4rem 0 0;
+}
+
+@media screen and (max-width: 42em) {
+  .page-header-brand {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .page-header-copy {
+    text-align: center;
+  }
+
+  .page-header-logo {
+    height: 6.5rem;
+  }
+}

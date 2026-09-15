@@ -1,4 +1,6 @@
-# OpenForm Studio
+---
+layout: default
+---
 
 OpenForm Studio is a software studio focused on designing and building thoughtful digital products.
 

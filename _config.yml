@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: OpenForm Studio
 description: Multimedia consulting and design studio
 show_downloads: false
+plugins:
+  - jekyll-seo-tag
