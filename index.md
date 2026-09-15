@@ -12,9 +12,7 @@ We are OpenForm Studio, LLC, based in North Carolina. We take work in the Triang
 
 We do not provide staffing or staff augmentation.
 
-## Selected work
-
-In progress:
+## Emerging work
 
 - **Community booking platform** — a scheduling and booking system for a local nonprofit, so organizations and participants share one trustworthy record of what is confirmed. [Public repo](https://github.com/cnbecom/community-booking-platform)
 - **Context-aware mobile app** — a native mobile application that uses AI services to generate dynamic content that is context-aware and personalized to the end user. [Public repo](https://github.com/cnbecom/context-aware-ai-integration)
